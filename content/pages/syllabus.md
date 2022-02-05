@@ -54,18 +54,84 @@ Graduate students enrolled in the course will be expected to read both the requi
 Evaluation for Undergraduates
 -----------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and leading discussion | 20% |
-| Ten response papers | 40% |
-| Research paper and presentation | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and leading discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ten response papers
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Evaluation for Graduate Students
 --------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final paper | 80% |
-| Class participation and leading discussion | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and leading discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Note**: Plagiarism and other forms of academic dishonesty will not be tolerated in this course. It is also illegal. Plagiarism occurs when you take someone else's words and present them as your own; but even borrowing someone else's ideas can count as plagiarism if you don't cite the source. If in doubt, provide a citation. If you have questions, speak to your instructor. Penalties for proven plagiarism can range from failing the course to expulsion. **_Please be aware that plagiarism of any kind will be severely punished_**, up to and including not only flunking the paper, but also having a letter placed in your file at the Institute.
