@@ -72,7 +72,7 @@ Privilege and Speaking for Others
 {{< tdopen >}}
 
 
-McIntosh, Peggy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["White Privilege: Unpacking the Invisible Knapsack," (PDF)](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) Amptoons.
+McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Knapsack," (PDF)](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) Amptoons.
 
 Parker, Pat. "[For the White Person Who Wants to Know How to Be My Friend](http://condor.depaul.edu/mwilson/multicult/patparker.htm)," DePaul University.
 
@@ -281,7 +281,7 @@ _At least one of the following:_
 
 ### Recommended
 
-Haslanger, Sally. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Epistemic Housekeeping and the Philosophical Canon: A Reflection on Jane Addams' 'Women and Public Housekeeping.'" (PDF)](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerehpc-addams.pdf)
+Haslanger, Sally. ["Epistemic Housekeeping and the Philosophical Canon: A Reflection on Jane Addams' 'Women and Public Housekeeping.'" (PDF)](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerehpc-addams.pdf)
 
 
 {{< tdclose >}}
